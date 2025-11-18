@@ -1,4 +1,5 @@
 {
+  "proxyMode": "static",
   "timeToRestartAllWallets": 86400,
 
   "wrapOPN": {
@@ -33,7 +34,7 @@
     "slippage": 0.5
   },
 
-  "claimBadge":{
+  "claimBadge": {
     "enabled": true
   },
 
