@@ -4,16 +4,38 @@
   "wrapOPN": {
     "enabled": true,
     "amount": [0.001, 0.003],
-    "count": [1, 3]
+    "count": [1, 3],
+    "slippage": 0.5
   },
   "unwrapOPN": {
     "enabled": true,
     "amount": [0.0001, 0.0003],
-    "count": [1, 3]
+    "count": [1, 3],
+    "slippage": 0.5
   },
   "swap": {
     "enabled": true,
     "amount": [0.0001, 0.0003],
-    "count": [1, 3]
+    "count": [1, 3],
+    "slippage": 0.5
+  },
+
+  "addLiquidity": {
+    "enabled": true,
+    "amount": [0.0001, 0.0003],
+    "count": [1, 3],
+    "slippage": 0.5
+  },
+  "removeLiquidity": {
+    "enabled": true,
+    "amount": [0.0001, 0.0003],
+    "count": [1, 3],
+    "slippage": 0.5
+  },
+
+  "faucet": {
+    "enabled": true,
+    "retryOnCaptchaFail": 3,
+    "retryOnFaucetFail": 3
   }
 }
